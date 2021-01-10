@@ -158,7 +158,7 @@ try:
       for i in range(0):
           button = driver.find_element_by_class_name("butmore")
           button.click()
-          sleep(5)
+          sleep(range(3,5))
           print(i)
 except:
       print("...................No more pages!!!")
