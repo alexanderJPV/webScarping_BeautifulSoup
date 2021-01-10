@@ -3,8 +3,10 @@
 # firstWebScapring/examples/images
 # firstWebScapring/examples/pelisPlus/gallery/
 # firstWebScapring/examples/pelisPlus/gallery
-firstWebScapring/examples/pelisPlus/poster/
+# firstWebScapring/examples/pelisPlus/poster/
 # ignore files .csv
 *.csv
 *.txt
 *.log
+*.jpg
+*.png
