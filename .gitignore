@@ -7,3 +7,5 @@ firstWebScapring/examples/pelisPlus/poster/
 firstWebScapring/examples/pelisPlus/poster
 # ignore files .csv
 *.csv
+*.txt
+*.log
